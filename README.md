@@ -1,4 +1,4 @@
-This is an application to accepts a list of prices and a tax rate, and outputs an invoice. 
+This is an application that accepts a tax rate and a list of products (with prices and descriptions), and outputs an invoice. 
 
 ***
 
