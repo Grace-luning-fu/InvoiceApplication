@@ -1,5 +1,5 @@
-| Input                | Processing                                      | Output               |
-| -------------------- | ----------------------------------------------- | -------------------- |
-| Hello\there          | I want to try\if I can have a new line          |                      |
-|                      |                                                 | inside a single cell |
-| Hope it would work   |                                                 |                      |
+| Input              | Processing                                | Output                      |
+| ------------------ | ----------------------------------------- | --------------------------- |
+| Hello<br>hey       | I want to try<br>if I can have a new line |                             |
+|                    |                                           | inside a single cell<br>and |
+| Hope it would work |                                           |                             |
