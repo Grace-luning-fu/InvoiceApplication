@@ -7,7 +7,7 @@ public class Product {
 	private String description;
 	private double price; 
 	
-
+    //setter and getter method for name
     public void setName(String name){
     	this.name=name;
     }
@@ -17,7 +17,7 @@ public class Product {
     	
     }
     
-    
+    //setter and getter method for description
     public void setDescription(String description){
     	this.description = description;
     }
@@ -27,7 +27,7 @@ public class Product {
     	
     }
     
-    
+    //setter and getter method for price
     public void setPrice(double price){
     	this.price=price;
     	
